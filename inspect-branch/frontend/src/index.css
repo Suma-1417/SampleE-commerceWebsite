@@ -1,0 +1,17 @@
+#btn{
+  color: white;
+  background-color: skyblue;
+}
+#btn:hover{
+  color: white;
+  background-color: black;
+}
+
+.change{
+  background-color: black;
+  color: white;
+}
+
+body{
+  text-align: center;
+}
